@@ -1,0 +1,6 @@
+{
+  "name": "BCG GenAI Consulting - Financial Chatbot & Analytics",
+  "description": "Executive financial analysis suite for Global Finance Corp (GFC) featuring an AI financial chatbot, interactive Chart.js analytics, and SEC 10-K data explorer for Microsoft, Tesla, and Apple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
